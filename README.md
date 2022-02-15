@@ -1,2 +1,1 @@
-# asli
-script bot asli
+# 130
