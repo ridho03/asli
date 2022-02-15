@@ -1,0 +1,2 @@
+# asli
+script bot asli
